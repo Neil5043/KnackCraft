@@ -1,0 +1,21 @@
+[
+{
+  "modid": "Letsmod",
+  "name": "Pasta",
+  "description": "Learning",
+  "version": "0.0.1",
+  "url": "meh",
+  "updateUrl": "",
+  "authorList": [
+    "Neil/niel"
+  ],
+  "credits": "Russ <3, Forstride",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
+

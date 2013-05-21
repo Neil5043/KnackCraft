@@ -1,0 +1,20 @@
+[
+{
+  "modid": "Letsmod",
+  "name": "Pasta",
+  "description": "Learning",
+  "version": "0.0.1",
+  "url": "meh",
+  "updateUrl": "",
+  "authorList": [
+    "Neil/niel"
+  ],
+  "credits": "Pahimar",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
